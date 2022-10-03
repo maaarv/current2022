@@ -2,10 +2,20 @@
 ![Banner](/images/Berinde-Tampanariu-TeamCollaborationInKafkaClusters.jpeg)
 
 ## Demos
-### Demo 1: How to grant temporary access? (Authentication, Authorization & Naming Conventions)
-![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)
+### Demo 1: Role bindings with Prefixed Rules in Confluent Cloud
+- Authentication: Confluent Cloud local users
+- Authorization: RBAC prefixed role bindings
+- Naming Convention: Team name used as prefix
+
+![image](https://user-images.githubusercontent.com/3935006/193562690-06355573-f395-447a-8c2d-cc076c6ca486.png)
+
+
 
 ### Demo 2: Authentication with Okta
+
+How to grant temporary access? (Authentication, Authorization & Naming Conventions)
+
+![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)
 
 ## Documentation Sources
 "Kafka: The Definitive Guide, 2nd Edition" by Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty was used as a source throughout the different sections of the presentation. ["Kafka: The Definitive Guide, 2nd Edition"](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/) can be downloaded from the Confluent website.
