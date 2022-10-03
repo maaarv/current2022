@@ -13,6 +13,10 @@
 
 ![Teams and Topics](/images/TeamCollaboration_Clients.png)
 
+### Demo 1+2: Teams and Clients - How/When to grant temporary access?
+
+
+![Teams and Topics](/images/TeamCollaboration_TeamsAndClients.png)
 
 ## Documentation Sources
 "Kafka: The Definitive Guide, 2nd Edition" by Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty was used as a source throughout the different sections of the presentation. ["Kafka: The Definitive Guide, 2nd Edition"](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/) can be downloaded from the Confluent website.
