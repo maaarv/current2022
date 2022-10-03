@@ -3,7 +3,7 @@
 
 ## Demos
 ### Demo 1: How to grant temporary access? (Authentication, Authorization & Naming Conventions)
-
+![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)
 
 ### Demo 2: Authentication with Okta
 
