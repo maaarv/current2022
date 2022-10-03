@@ -2,7 +2,7 @@
 ![Banner](/images/Berinde-Tampanariu-TeamCollaborationInKafkaClusters.jpeg)
 
 ## Demos
-### Demo 1: How to grant temporary access? (Authentication, Authorization & Naming Conentions)
+### Demo 1: How to grant temporary access? (Authentication, Authorization & Naming Conventions)
 
 
 ### Demo 2: Authentication with Okta
