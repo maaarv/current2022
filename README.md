@@ -24,7 +24,7 @@ We will close the session by looking at the ability to use the authorization mec
 
 ![Clients](/images/TeamCollaboration_Clients.png)
 
-### Demo 1+2: Teams and Clients - How/When to grant temporary access?
+### Putting Demo 1 & 2 together: Teams and Clients - How/When to grant temporary access?
 
 ![Teams and Topics](/images/TeamCollaboration_TeamsAndClients.png)
 
