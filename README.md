@@ -15,13 +15,13 @@ We will close the session by looking at the ability to use the authorization mec
 - Authentication: Confluent Cloud local users
 - Authorization: RBAC prefixed role bindings
 - Naming Convention: Team name used as prefix
-
-[![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)](https://youtu.be/YkJZgGGXpyM)
+![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)
+[![Teams and Topics](https://img.youtube.com/vi/YkJZgGGXpyM/maxresdefault.jpg)](https://youtu.be/YkJZgGGXpyM)
 
 
 ### Demo 2: Authentication with Okta
 
-![Teams and Topics](/images/TeamCollaboration_Clients.png)
+![Clients(/images/TeamCollaboration_Clients.png)
 
 ### Demo 1+2: Teams and Clients - How/When to grant temporary access?
 
