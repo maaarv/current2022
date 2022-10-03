@@ -13,8 +13,8 @@
 - [COURSE: APACHE KAFKA® SECURITY - Authorization](https://developer.confluent.io/learn-kafka/security/authorization/)
 - [Confluent Platform 7.2.1 installation /etc/kafka/kraft/README.md](https://www.confluent.io/installation/ )
 - [Confluent Platform Security](https://docs.confluent.io/platform/current/security/)
--- [Configuring Confluent Server Authorizer](https://docs.confluent.io/platform/current/security/csa-introduction.html#configuring-csa)
--- [Authorization using centralized ACLs](https://docs.confluent.io/platform/current/security/rbac/authorization-acl-with-mds.html#authorization-using-centralized-acls)
+  - [Configuring Confluent Server Authorizer](https://docs.confluent.io/platform/current/security/csa-introduction.html#configuring-csa)
+  - [Authorization using centralized ACLs](https://docs.confluent.io/platform/current/security/rbac/authorization-acl-with-mds.html#authorization-using-centralized-acls)
 https://docs.confluent.io/platform/current/kafka/authorization.html#authorization-using-acls
 
 https://docs.confluent.io/cloud/current/access-management/access-control/acl.html#restrict-access-to-ccloud-resources-and-data
