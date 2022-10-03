@@ -69,6 +69,10 @@ https://docs.confluent.io/platform/current/security/rbac/rbac-predefined-roles.h
 - [Confluent Platform - Control Center](https://docs.confluent.io/platform/current/control-center/index.html)
 - [Connecting Control Center to Confluent Cloud](https://docs.confluent.io/cloud/current/cp-component/c3-cloud-config.html)
 - [Insomnia Confluent Cloud Metrics API Examples](https://github.com/vdesabou/kafka-docker-playground/tree/master/tools/insomnia)
+- [Bring Your Own Monitoring with Confluent Cloud](https://www.confluent.io/blog/bring-your-own-monitoring-with-confluent-cloud/)
+- [Export Endpoint](https://api.telemetry.confluent.cloud/docs#tag/Version-2/paths/~1v2~1metrics~1%7Bdataset%7D~1export/get)
+- [Confluent Cloud Metrics API](https://api.telemetry.confluent.cloud/docs)
+- [Confluent Cloud Metrics API Reference](https://api.telemetry.confluent.cloud/docs/descriptors/datasets/cloud)
 
 ### Automation
 - [Apache Kafka Documentation - Kafka APIs](https://kafka.apache.org/33/documentation/#intro_apis)
