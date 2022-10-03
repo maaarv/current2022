@@ -7,8 +7,6 @@
 - Authorization: RBAC prefixed role bindings
 - Naming Convention: Team name used as prefix
 
-![image](https://user-images.githubusercontent.com/3935006/193562690-06355573-f395-447a-8c2d-cc076c6ca486.png)
-
 
 
 ### Demo 2: Authentication with Okta
