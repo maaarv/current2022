@@ -58,7 +58,10 @@ https://docs.confluent.io/platform/current/security/rbac/rbac-predefined-roles.h
 - [Multi-tenancy and Client Quotas on Confluent Cloud](https://docs.confluent.io/cloud/current/clusters/client-quotas.html#multi-tenancy-and-client-quotas-on-ccloud)
 
 ### Monitoring
-
+- [Apache Kafka Documentation - 6.8 Monitoring](https://kafka.apache.org/33/documentation/#monitoring)
+- [Apache Kafka Documentation - 6.4 Multitenancy Monitoring](https://kafka.apache.org/33/documentation/#multitenancy-monitoring)
+- [Confluent Platform - Control Center](https://docs.confluent.io/platform/current/control-center/index.html)
+- [Connecting Control Center to Confluent Cloud](https://docs.confluent.io/cloud/current/cp-component/c3-cloud-config.html)
 
 ### Automation
 - [Apache Kafka Documentation - Kafka APIs](https://kafka.apache.org/33/documentation/#intro_apis)
