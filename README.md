@@ -10,18 +10,17 @@ We will put the capabilities into action by looking at the practices used by an 
 
 We will close the session by looking at the ability to use the authorization mechanisms in conjunction with different authentication options and at the automation options to make the actions predictable and repeatable.
 
-## Demos
-### Demo 1: Role bindings with Prefixed Rules in Confluent Cloud
+## Demo: Role bindings with Prefixed Rules in Confluent Cloud
 - Authentication: Confluent Cloud local users
 - Authorization: RBAC prefixed role bindings
 - Naming Convention: Team name used as prefix
 ![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)
 
-[Demo 1 Recording](https://youtu.be/YkJZgGGXpyM)
+[Demo Recording](https://youtu.be/YkJZgGGXpyM)
 
 ![Teams and Topics](/images/TeamCollaboration_TeamsAndClients.png)
 
-### Demo 2:
+
 
 ## Documentation Sources
 "Kafka: The Definitive Guide, 2nd Edition" by Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty was used as a source throughout the different sections of the presentation. ["Kafka: The Definitive Guide, 2nd Edition"](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/) can be downloaded from the Confluent website.
