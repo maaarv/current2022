@@ -19,14 +19,9 @@ We will close the session by looking at the ability to use the authorization mec
 
 [Demo 1 Recording](https://youtu.be/YkJZgGGXpyM)
 
-
-### Demo 2: Authentication with Okta
-
-![Clients](/images/TeamCollaboration_Clients.png)
-
-### Putting Demo 1 & 2 together: Teams and Clients - How/When to grant temporary access?
-
 ![Teams and Topics](/images/TeamCollaboration_TeamsAndClients.png)
+
+### Demo 2:
 
 ## Documentation Sources
 "Kafka: The Definitive Guide, 2nd Edition" by Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty was used as a source throughout the different sections of the presentation. ["Kafka: The Definitive Guide, 2nd Edition"](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/) can be downloaded from the Confluent website.
@@ -73,6 +68,7 @@ https://docs.confluent.io/platform/current/security/rbac/rbac-predefined-roles.h
 - [Apache Kafka Documentation - 6.4 Multitenancy Monitoring](https://kafka.apache.org/33/documentation/#multitenancy-monitoring)
 - [Confluent Platform - Control Center](https://docs.confluent.io/platform/current/control-center/index.html)
 - [Connecting Control Center to Confluent Cloud](https://docs.confluent.io/cloud/current/cp-component/c3-cloud-config.html)
+- [Insomnia Confluent Cloud Metrics API Examples](https://github.com/vdesabou/kafka-docker-playground/tree/master/tools/insomnia)
 
 ### Automation
 - [Apache Kafka Documentation - Kafka APIs](https://kafka.apache.org/33/documentation/#intro_apis)
