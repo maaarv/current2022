@@ -1,6 +1,15 @@
 # Team Collaboration in Kafka Clusters @ Current 2022
 ![Banner](/images/Berinde-Tampanariu-TeamCollaborationInKafkaClusters.jpeg)
 
+## Abstract
+When different teams start to use the same Kafka clusters, it opens up opportunities and challenges. During this talk, we will look at different architectures and team structures to explore ways in which to set up authorization in a granular and maintainable way for real-world users, as well as for producing or consuming clients.
+
+What are the options offered by the Kafka built-in Authorizer, how can the Authorizer be customized and how are integrations with external systems built in order to provide group or role-based access control? Confluent Cloud and Confluent Platform provide predefined roles as part of the Role-based Access Control (RBAC) feature. We will look at the permissions included in these role bindings, the scope on which they can be used, and the components for which they are available. Role-based Access Control and Access Control Lists can be used together - let’s explore the options, best practices, and order of precedence.
+
+We will put the capabilities into action by looking at the practices used by an imaginary company where the central Platform Team provisions clusters for its internal customers and provides access for teams to self-manage their domains. What’s the best approach to grant access to team members to their team’s resources and what needs to happen when one team collaborates with another team? What happens when a team member works temporarily on two teams?
+
+We will close the session by looking at the ability to use the authorization mechanisms in conjunction with different authentication options and at the automation options to make the actions predictable and repeatable.
+
 ## Demos
 ### Demo 1: Role bindings with Prefixed Rules in Confluent Cloud
 - Authentication: Confluent Cloud local users
