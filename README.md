@@ -15,7 +15,6 @@
 
 ### Demo 1+2: Teams and Clients - How/When to grant temporary access?
 
-
 ![Teams and Topics](/images/TeamCollaboration_TeamsAndClients.png)
 
 ## Documentation Sources
@@ -61,8 +60,7 @@ https://docs.confluent.io/platform/current/security/rbac/rbac-predefined-roles.h
 ### Monitoring
 
 
-### Chargeback
-Lyndon Hedderly's sessions on cost effectiveness:
-- 
-
 ### Automation
+- [Confluent documentation on Terraform provider](https://docs.confluent.io/cloud/current/get-started/terraform-provider.html)
+- [Confluent Terraform provider on Hashicorp Terraform Registry](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs)
+- [DevOps for Kafka with Kubernetes and GitOps](https://docs.confluent.io/platform/current/tutorials/streaming-ops/overview.html) (including an overview and three case studies)
