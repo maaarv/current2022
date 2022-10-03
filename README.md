@@ -7,13 +7,12 @@
 - Authorization: RBAC prefixed role bindings
 - Naming Convention: Team name used as prefix
 
-
+![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)
 
 ### Demo 2: Authentication with Okta
 
-How to grant temporary access? (Authentication, Authorization & Naming Conventions)
+![Teams and Topics](/images/TeamCollaboration_Clients.png)
 
-![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)
 
 ## Documentation Sources
 "Kafka: The Definitive Guide, 2nd Edition" by Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty was used as a source throughout the different sections of the presentation. ["Kafka: The Definitive Guide, 2nd Edition"](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/) can be downloaded from the Confluent website.
