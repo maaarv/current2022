@@ -16,12 +16,13 @@ We will close the session by looking at the ability to use the authorization mec
 - Authorization: RBAC prefixed role bindings
 - Naming Convention: Team name used as prefix
 ![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)
+![Teams and Topics](/videos/Current2022-Demo1.mp4)
 [![Teams and Topics](https://img.youtube.com/vi/YkJZgGGXpyM/maxresdefault.jpg)](https://youtu.be/YkJZgGGXpyM)
 
 
 ### Demo 2: Authentication with Okta
 
-![Clients(/images/TeamCollaboration_Clients.png)
+![Clients](/images/TeamCollaboration_Clients.png)
 
 ### Demo 1+2: Teams and Clients - How/When to grant temporary access?
 
