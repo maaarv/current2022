@@ -61,6 +61,8 @@ https://docs.confluent.io/platform/current/security/rbac/rbac-predefined-roles.h
 
 
 ### Automation
-- [Confluent documentation on Terraform provider](https://docs.confluent.io/cloud/current/get-started/terraform-provider.html)
-- [Confluent Terraform provider on Hashicorp Terraform Registry](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs)
-- [DevOps for Kafka with Kubernetes and GitOps](https://docs.confluent.io/platform/current/tutorials/streaming-ops/overview.html) (including an overview and three case studies)
+- [Apache Kafka Documentation - Kafka APIs](https://kafka.apache.org/33/documentation/#intro_apis)
+- [Confluent Cloud Documentation on Terraform provider](https://docs.confluent.io/cloud/current/get-started/terraform-provider.html)
+- [Confluent Cloud Terraform Provider on Hashicorp Terraform Registry](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs)
+- [Confluent for Kubernetes](https://docs.confluent.io/operator/2.4.1/overview.html)
+- [Confluent Platform - DevOps for Kafka with Kubernetes and GitOps](https://docs.confluent.io/platform/current/tutorials/streaming-ops/overview.html) (including an overview and three case studies)
