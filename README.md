@@ -16,7 +16,7 @@ We will close the session by looking at the ability to use the authorization mec
 - Authorization: RBAC prefixed role bindings
 - Naming Convention: Team name used as prefix
 
-[![Teams and Topics]](/images/TeamCollaboration_TeamsAndTopics.png)](https://youtu.be/YkJZgGGXpyM)
+[![Teams and Topics](/images/TeamCollaboration_TeamsAndTopics.png)](https://youtu.be/YkJZgGGXpyM)
 
 
 ### Demo 2: Authentication with Okta
