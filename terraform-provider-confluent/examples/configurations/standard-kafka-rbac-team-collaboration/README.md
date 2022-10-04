@@ -1,1 +1,1 @@
-
+This example has been built by customizing the [standard-kafka-rbac example](https://github.com/confluentinc/terraform-provider-confluent/tree/master/examples/configurations/standard-kafka-rbac) from the Confluent Terraform Provider sample project. The customization entails creating other user accounts, other topics and granting RBAC permissions to illustrate to team collaboration concept.
