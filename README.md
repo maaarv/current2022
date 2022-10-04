@@ -72,6 +72,7 @@ https://docs.confluent.io/platform/current/security/rbac/rbac-predefined-roles.h
 - [Export Endpoint](https://api.telemetry.confluent.cloud/docs#tag/Version-2/paths/~1v2~1metrics~1%7Bdataset%7D~1export/get)
 - [Confluent Cloud Metrics API](https://api.telemetry.confluent.cloud/docs)
 - [Confluent Cloud Metrics API Reference](https://api.telemetry.confluent.cloud/docs/descriptors/datasets/cloud)
+- [Use the Metrics API to Track Usage by Team](https://docs.confluent.io/cloud/current/monitoring/metrics-by-principal.html)
 
 ### Automation
 - [Apache Kafka Documentation - Kafka APIs](https://kafka.apache.org/33/documentation/#intro_apis)
