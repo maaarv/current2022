@@ -31,19 +31,19 @@ resource "confluent_kafka_cluster" "standard" {
 
 
 data "confluent_user" "teamA_owner" {
-  email = "mberindetampanariu+teama_owner@confluent.io"
+  email = "teama_owner@test.io"
 }
 
 data "confluent_user" "teamA_developer" {
-  email = "mberindetampanariu+teama_developer@confluent.io"
+  email = "teama_developer@test.io"
 }
 
 data "confluent_user" "teamB_owner" {
-  email = "mberindetampanariu+teamb_owner@confluent.io"
+  email = "teamb_owner@test.io"
 }
 
 data "confluent_user" "teamB_developer" {
-  email = "mberindetampanariu+teamb_developer@confluent.io"
+  email = "teamb_developer@test.io"
 }
 
 resource "confluent_role_binding" "teamA_owner_resourceOwner1" {
